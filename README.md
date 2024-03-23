@@ -22,9 +22,9 @@ This four-part workshop is designed for experienced serverless developers and ar
 
 ## Time and Location
 
-[Serverless Architecture Conference - Berlin 2022](https://serverless-architecture.io/serverless-architecture-design/advanced-serverless-workshop/)
-Berlin, Germany
-October 17, 2022
+[Serverless Architecture Conference - Berlin 2022](https://serverless-architecture.io/serverless-architecture-design/advanced-serverless-workshop/)  
+Berlin, Germany  
+October 17, 2022  
 9:00 AM CEST
 
 ## Other Presentations
